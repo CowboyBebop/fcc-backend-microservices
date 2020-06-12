@@ -1,0 +1,12 @@
+[submodule "boilerplate-mongomongoose"]
+	path = boilerplate-mongomongoose
+	url = https://github.com/CowboyBebop/boilerplate-mongomongoose
+	branch = beginning
+[submodule "boilerplate-project-timestamp"]
+	path = boilerplate-project-timestamp
+	url = https://github.com/CowboyBebop/boilerplate-project-timestamp.git
+	branch = gomix
+[submodule "boilerplate-project-headerparser"]
+	path = boilerplate-project-headerparser
+	url = https://github.com/CowboyBebop/boilerplate-project-headerparser
+	branch = gomix
