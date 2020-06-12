@@ -10,3 +10,7 @@
 	path = boilerplate-project-headerparser
 	url = https://github.com/CowboyBebop/boilerplate-project-headerparser
 	branch = gomix
+[submodule "boilerplate-project-urlshortener"]
+	path = boilerplate-project-urlshortener
+	url = https://github.com/CowboyBebop/boilerplate-project-urlshortener.git
+	branch = gomix
