@@ -14,3 +14,7 @@
 	path = boilerplate-project-urlshortener
 	url = https://github.com/CowboyBebop/boilerplate-project-urlshortener.git
 	branch = gomix
+[submodule "boilerplate-project-exercisetracker"]
+	path = boilerplate-project-exercisetracker
+	url = https://github.com/CowboyBebop/boilerplate-project-exercisetracker.git
+	branch = gomix
