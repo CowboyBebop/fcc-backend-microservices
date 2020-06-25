@@ -18,3 +18,7 @@
 	path = boilerplate-project-exercisetracker
 	url = https://github.com/CowboyBebop/boilerplate-project-exercisetracker.git
 	branch = gomix
+[submodule "boilerplate-project-filemetadata"]
+	path = boilerplate-project-filemetadata
+	url = https://github.com/CowboyBebop/boilerplate-project-filemetadata.git
+	branch = gomix
